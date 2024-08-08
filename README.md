@@ -1,5 +1,3 @@
-# projet-informatique
-
 Description
 Ce script Bash permet de synchroniser un fichier ou un répertoire entre deux emplacements spécifiés. Il prend en compte divers scénarios de conflit, tels que les différences de métadonnées, les conflits entre répertoires et fichiers, et la gestion des liens symboliques.
 
