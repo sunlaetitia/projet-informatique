@@ -18,10 +18,7 @@ Ce script Bash permet de synchroniser un fichier ou un répertoire entre deux em
 2. Préparez un fichier journal nommé journal pour enregistrer les opérations.
    
 ## Exécution du Script
-Lancez le script avec la commande suivante :
-
-    ```bash
- ./script.sh
+Lancez le script avec la commande **./script.sh**
 
 ## Saisie des Informations
 Vous serez invité à entrer les noms des deux répertoires à synchroniser ainsi que le nom du fichier ou du répertoire à synchroniser entre eux.
@@ -34,10 +31,7 @@ Mode avec comparaison du contenu : Compare le contenu des fichiers pour détecte
 Le script gère les conflits possibles, y compris les différences de contenu et de métadonnées, et propose des options pour résoudre les conflits en renommant ou déplaçant des fichiers/répertoires.
 
 ## Exemples
-Pour synchroniser deux répertoires contenant un fichier spécifique :
-
-    ```bash
-   ./script.sh
+Pour synchroniser deux répertoires contenant un fichier spécifique, utilisez également la commande **./script.sh**
 
 Suivez les instructions pour entrer les noms des répertoires et du fichier à synchroniser. Choisissez le mode de synchronisation lorsqu'on vous le demande.
 
